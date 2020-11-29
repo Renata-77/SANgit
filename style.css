@@ -5,4 +5,6 @@ p{
 }
 p:first-of-type{
     color: rgb(214, 21, 198);
+    background-color: rgb(13, 209, 79);
+    padding: 10px;
 }
