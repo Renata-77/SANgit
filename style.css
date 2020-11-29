@@ -1,7 +1,7 @@
 
 p{
     color: blue;
-    background-color: yellow;
+    background-color: purple;
 }
 p:first-of-type{
     color: rgb(214, 21, 198);
